@@ -1,5 +1,0 @@
-{
-  "routes": [
-    { "src": "/codingLion.json", "dest": "/codingLion.json" }
-  ]
-}
