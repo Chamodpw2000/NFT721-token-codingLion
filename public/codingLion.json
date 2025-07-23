@@ -1,8 +1,8 @@
 {
-    "name": "Coding Lion Token 🦁",
+    "name": "Coding Lion Token",
     "symbol": "CLT",
     "description": "A unique NFT representing a coding lion.",
-    "image": "https://ibwnaajpdtcqzmgrhsyf.supabase.co/storage/v1/object/public/images//ChatGPT%20Image%20Jul%2023,%202025,%2007_46_21%20PM.png",
+    "image": "https://ibwnaajpdtcqzmgrhsyf.supabase.co/storage/v1/object/public/images/ChatGPT%20Image%20Jul%2023,%202025,%2007_46_21%20PM.png",
     "attributes": [
         {
             "trait_type": "Background",
